@@ -18,3 +18,4 @@ G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices
 G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices.Core\bin\Debug\netstandard2.0\TrainingServices.Core.deps.json
 G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices.Core\bin\Debug\netstandard2.0\TrainingServices.Core.dll
 G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices.Core\bin\Debug\netstandard2.0\TrainingServices.Core.pdb
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.csprojAssemblyReference.cache
