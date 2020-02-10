@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\TrainingServices\TrainingDetails.Data\bin\Debug\netstandard2.0\TrainingDetails.Data.deps.json
+C:\Users\User\source\repos\TrainingServices\TrainingDetails.Data\bin\Debug\netstandard2.0\TrainingDetails.Data.dll
+C:\Users\User\source\repos\TrainingServices\TrainingDetails.Data\bin\Debug\netstandard2.0\TrainingDetails.Data.pdb
+C:\Users\User\source\repos\TrainingServices\TrainingDetails.Data\bin\Debug\netstandard2.0\TrainingServices.Core.dll
+C:\Users\User\source\repos\TrainingServices\TrainingDetails.Data\bin\Debug\netstandard2.0\TrainingServices.Core.pdb
+C:\Users\User\source\repos\TrainingServices\TrainingDetails.Data\obj\Debug\netstandard2.0\TrainingDetails.Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TrainingServices\TrainingDetails.Data\obj\Debug\netstandard2.0\TrainingDetails.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TrainingServices\TrainingDetails.Data\obj\Debug\netstandard2.0\TrainingDetails.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\TrainingServices\TrainingDetails.Data\obj\Debug\netstandard2.0\TrainingDetails.Data.csproj.CopyComplete
+C:\Users\User\source\repos\TrainingServices\TrainingDetails.Data\obj\Debug\netstandard2.0\TrainingDetails.Data.dll
+C:\Users\User\source\repos\TrainingServices\TrainingDetails.Data\obj\Debug\netstandard2.0\TrainingDetails.Data.pdb
+C:\Users\User\source\repos\TrainingServices\TrainingDetails.Data\obj\Debug\netstandard2.0\TrainingDetails.Data.csproj.CoreCompileInputs.cache

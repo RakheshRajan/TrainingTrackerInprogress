@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\bin\Debug\netstandard2.0\TrainingServices.Core.deps.json
+C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\bin\Debug\netstandard2.0\TrainingServices.Core.dll
+C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\bin\Debug\netstandard2.0\TrainingServices.Core.pdb
+C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.dll
+C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.pdb
+C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.csproj.CopyComplete
+C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.csproj.CoreCompileInputs.cache

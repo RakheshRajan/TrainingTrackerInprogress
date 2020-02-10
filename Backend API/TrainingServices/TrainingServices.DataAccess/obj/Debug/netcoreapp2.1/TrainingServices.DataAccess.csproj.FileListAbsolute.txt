@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\bin\Debug\netcoreapp2.1\TrainingServices.DataAccess.deps.json
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\bin\Debug\netcoreapp2.1\TrainingServices.DataAccess.dll
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\obj\Debug\netcoreapp2.1\TrainingServices.DataAccess.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\obj\Debug\netcoreapp2.1\TrainingServices.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\obj\Debug\netcoreapp2.1\TrainingServices.DataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\bin\Debug\netcoreapp2.1\TrainingServices.DataAccess.pdb
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\bin\Debug\netcoreapp2.1\TrainingServices.Core.dll
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\bin\Debug\netcoreapp2.1\TrainingServices.Core.pdb
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\obj\Debug\netcoreapp2.1\TrainingServices.DataAccess.csproj.CopyComplete
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\obj\Debug\netcoreapp2.1\TrainingServices.DataAccess.dll
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\obj\Debug\netcoreapp2.1\TrainingServices.DataAccess.pdb
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\bin\Debug\netcoreapp2.1\TrainingServices.DataAccess.runtimeconfig.json
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\bin\Debug\netcoreapp2.1\TrainingServices.DataAccess.runtimeconfig.dev.json
+C:\Users\User\source\repos\TrainingServices\TrainingServices.DataAccess\obj\Debug\netcoreapp2.1\TrainingServices.DataAccess.csproj.CoreCompileInputs.cache
