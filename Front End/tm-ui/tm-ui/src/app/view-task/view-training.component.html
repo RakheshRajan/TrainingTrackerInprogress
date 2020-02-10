@@ -1,0 +1,46 @@
+<div style="margin: 2rem">
+
+  <form [formGroup]="searchFormGroup">
+
+    <div class="form-group row">
+      <label for="task" class="col-sm-2 col-form-label">Name:</label>
+      <div class="col-sm-4">
+        <input class="form-control" id="trainingname" minlength="3" placeholder="Enter task" type="text" formControlName="trainingname">
+      </div>
+    </div>
+    <div class="text-right">
+      <button class="btn btn-primary btn-space"  [disabled]="!searchFormGroup.valid" style="margin: 0 1rem" type="submit" (click)="searchTasks()">Search</button>
+      <button class="btn btn-primary btn-space" (click)="clearSearchFields()">Clear</button>
+    </div>
+  </form>
+</div>
+
+<hr>
+<table class="table table-striped">
+  <thead>
+  <tr>
+    <th scope="col" sortable="name" (sort)="onSort($event)">Name</th>
+    <th scope="col" sortable="startDate" (sort)="onSort($event)">Start Date</th>
+    <th scope="col" sortable="endDate" (sort)="onSort($event)">End Date</th>
+  </tr>
+  </thead>
+  <tbody>
+    
+    <tr *ngFor="let task of taskList | slice: (page-1) * pageSize : (page-1) * pageSize + pageSize; index as i">
+      <td class="name-col"><ngb-highlight [result]="task.name"></ngb-highlight></td>
+      <td class="date-col"><ngb-highlight [result]="task.startDate"></ngb-highlight></td>
+      <td class="date-col"><ngb-highlight [result]="task.endDate"></ngb-highlight></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="d-flex justify-content-between p-2">
+  <ngb-pagination [collectionSize]="taskList.length" [(page)]="page" [pageSize]="pageSize">
+  </ngb-pagination>
+
+  <select class="custom-select" style="width: auto" [(ngModel)]="pageSize">
+    <option [ngValue]="2">2 items per page</option>
+    <option [ngValue]="4">4 items per page</option>
+    <option [ngValue]="6">6 items per page</option>
+  </select>
+</div>
