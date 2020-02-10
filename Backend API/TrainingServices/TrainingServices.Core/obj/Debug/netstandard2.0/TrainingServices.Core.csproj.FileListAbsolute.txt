@@ -10,3 +10,11 @@ C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\bin\Debug\nets
 C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
 C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.csproj.CopyComplete
 C:\Users\User\source\repos\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.csproj.CoreCompileInputs.cache
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.csproj.CoreCompileInputs.cache
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.AssemblyInfoInputs.cache
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.AssemblyInfo.cs
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.dll
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices.Core\obj\Debug\netstandard2.0\TrainingServices.Core.pdb
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices.Core\bin\Debug\netstandard2.0\TrainingServices.Core.deps.json
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices.Core\bin\Debug\netstandard2.0\TrainingServices.Core.dll
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices.Core\bin\Debug\netstandard2.0\TrainingServices.Core.pdb

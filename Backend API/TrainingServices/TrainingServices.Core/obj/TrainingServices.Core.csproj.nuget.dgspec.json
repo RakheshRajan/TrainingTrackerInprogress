@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\TrainingServices\\TrainingServices.Core\\TrainingServices.Core.csproj": {}
+    "G:\\Sowmya\\Projects\\TrainingTracker\\Backend API\\TrainingServices\\TrainingServices.Core\\TrainingServices.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\TrainingServices\\TrainingServices.Core\\TrainingServices.Core.csproj": {
+    "G:\\Sowmya\\Projects\\TrainingTracker\\Backend API\\TrainingServices\\TrainingServices.Core\\TrainingServices.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\TrainingServices\\TrainingServices.Core\\TrainingServices.Core.csproj",
+        "projectUniqueName": "G:\\Sowmya\\Projects\\TrainingTracker\\Backend API\\TrainingServices\\TrainingServices.Core\\TrainingServices.Core.csproj",
         "projectName": "TrainingServices.Core",
-        "projectPath": "C:\\Users\\User\\source\\repos\\TrainingServices\\TrainingServices.Core\\TrainingServices.Core.csproj",
+        "projectPath": "G:\\Sowmya\\Projects\\TrainingTracker\\Backend API\\TrainingServices\\TrainingServices.Core\\TrainingServices.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\TrainingServices\\TrainingServices.Core\\obj\\",
+        "outputPath": "G:\\Sowmya\\Projects\\TrainingTracker\\Backend API\\TrainingServices\\TrainingServices.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
             }
           },
           "imports": [

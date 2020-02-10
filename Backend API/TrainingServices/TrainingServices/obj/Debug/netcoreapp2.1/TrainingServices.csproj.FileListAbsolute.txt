@@ -17,3 +17,22 @@ C:\Users\User\source\repos\TrainingServices\TrainingServices\obj\Debug\netcoreap
 C:\Users\User\source\repos\TrainingServices\TrainingServices\bin\Debug\netcoreapp2.1\TrainingServices.DataAccess.dll
 C:\Users\User\source\repos\TrainingServices\TrainingServices\bin\Debug\netcoreapp2.1\TrainingServices.DataAccess.pdb
 C:\Users\User\source\repos\TrainingServices\TrainingServices\obj\Debug\netcoreapp2.1\TrainingServices.csproj.CoreCompileInputs.cache
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\bin\Debug\netcoreapp2.1\TrainingServices.deps.json
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\bin\Debug\netcoreapp2.1\TrainingServices.runtimeconfig.json
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\bin\Debug\netcoreapp2.1\TrainingServices.runtimeconfig.dev.json
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\bin\Debug\netcoreapp2.1\TrainingServices.dll
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\bin\Debug\netcoreapp2.1\TrainingServices.pdb
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\bin\Debug\netcoreapp2.1\TrainingServices.Core.dll
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\bin\Debug\netcoreapp2.1\TrainingServices.DataAccess.dll
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\bin\Debug\netcoreapp2.1\TrainingServices.DataAccess.pdb
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\bin\Debug\netcoreapp2.1\TrainingServices.Core.pdb
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\obj\Debug\netcoreapp2.1\TrainingServices.csprojAssemblyReference.cache
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\obj\Debug\netcoreapp2.1\TrainingServices.csproj.CoreCompileInputs.cache
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\obj\Debug\netcoreapp2.1\TrainingServices.RazorAssemblyInfo.cache
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\obj\Debug\netcoreapp2.1\TrainingServices.RazorAssemblyInfo.cs
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\obj\Debug\netcoreapp2.1\TrainingServices.AssemblyInfoInputs.cache
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\obj\Debug\netcoreapp2.1\TrainingServices.AssemblyInfo.cs
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\obj\Debug\netcoreapp2.1\TrainingServices.RazorTargetAssemblyInfo.cache
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\obj\Debug\netcoreapp2.1\TrainingServices.csproj.CopyComplete
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\obj\Debug\netcoreapp2.1\TrainingServices.dll
+G:\Sowmya\Projects\TrainingTracker\Backend API\TrainingServices\TrainingServices\obj\Debug\netcoreapp2.1\TrainingServices.pdb
